@@ -1,5 +1,5 @@
 from Rectangle import Rectangle
-from Trojkat import Triangle
+from Triangle import Triangle
 
 triangle = Triangle(4, 4, 5)
 triangle.describe()
